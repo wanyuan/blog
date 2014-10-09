@@ -6,5 +6,8 @@ class ArticlesController < ApplicationController
 		render :inline => params[:article].inspect
 	end
 
+	def  index
+	end
 
+	def  
 end
