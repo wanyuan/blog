@@ -12,6 +12,5 @@ class ArticlesController < ApplicationController
 	def  update
 	end
 
-	def destory
-	end
+	
 end
