@@ -15,4 +15,7 @@ class ArticlesController < ApplicationController
 	def destory
 	end
 
+	def test
+	end
+
 end
