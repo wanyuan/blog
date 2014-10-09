@@ -9,5 +9,9 @@ class ArticlesController < ApplicationController
 	def  index
 	end
 
-	def  
+	def  update
+	end
+
+	def destory
+	end
 end
